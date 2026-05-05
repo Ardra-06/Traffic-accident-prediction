@@ -92,3 +92,9 @@ python main.py
  Conclusion
 
 This project demonstrates a basic machine learning pipeline for traffic accident severity prediction. While initial results are moderate, the model provides a foundation for further improvements and real-world applications in traffic safety analytics.
+<img width="600" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/e368b7f1-8a45-4163-bd2c-479e17dd605a" />
+<img width="1000" height="746" alt="Figure_2" src="https://github.com/user-attachments/assets/3821c930-491d-4343-a1de-cc5569e92c60" />
+<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/5d685963-4416-45e5-8100-caa210368d1f" />
+
+
+
